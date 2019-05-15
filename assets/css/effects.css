@@ -1,0 +1,9 @@
+/* 1 Effect on element
+/* ---------------------------------------------- */
+
+#parallax-slide,
+#products,
+#portfolio,
+#counter{
+	background-attachment: fixed;
+}

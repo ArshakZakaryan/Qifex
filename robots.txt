@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /default.aspx/
+Disallow: /index.html/
+Disallow: /blogger/
+
+Allow: /sitemap.htm
+Sitemap: http://qifex.co/sitemap.xml
